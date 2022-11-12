@@ -1,0 +1,1235 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW27
+U 1 1 5D379064
+P 10500 1250
+F 0 "SW27" H 10500 1535 50  0000 C CNN
+F 1 "SW_Push" H 10500 1444 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 10500 1450 50  0001 C CNN
+F 3 "" H 10500 1450 50  0001 C CNN
+	1    10500 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D27
+U 1 1 5D379153
+P 10700 1450
+F 0 "D27" V 10746 1382 50  0000 R CNN
+F 1 "D1N414" V 10655 1382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10700 1450 50  0001 C CNN
+F 3 "~" V 10700 1450 50  0001 C CNN
+	1    10700 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5D37A82F
+P 7900 1250
+F 0 "SW11" H 7900 1535 50  0000 C CNN
+F 1 "SW_Push" H 7900 1444 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7900 1450 50  0001 C CNN
+F 3 "" H 7900 1450 50  0001 C CNN
+	1    7900 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D11
+U 1 1 5D37A836
+P 8100 1450
+F 0 "D11" V 8146 1382 50  0000 R CNN
+F 1 "D1N414" V 8055 1382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8100 1450 50  0001 C CNN
+F 3 "~" V 8100 1450 50  0001 C CNN
+	1    8100 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5D37A83D
+P 8750 1250
+F 0 "SW16" H 8750 1535 50  0000 C CNN
+F 1 "SW_Push" H 8750 1444 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 8750 1450 50  0001 C CNN
+F 3 "" H 8750 1450 50  0001 C CNN
+	1    8750 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D16
+U 1 1 5D37A844
+P 8950 1450
+F 0 "D16" V 8996 1382 50  0000 R CNN
+F 1 "D1N414" V 8905 1382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8950 1450 50  0001 C CNN
+F 3 "~" V 8950 1450 50  0001 C CNN
+	1    8950 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5D37A84B
+P 9600 1250
+F 0 "SW21" H 9600 1535 50  0000 C CNN
+F 1 "SW_Push" H 9600 1444 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 9600 1450 50  0001 C CNN
+F 3 "" H 9600 1450 50  0001 C CNN
+	1    9600 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D21
+U 1 1 5D37A852
+P 9800 1450
+F 0 "D21" V 9846 1382 50  0000 R CNN
+F 1 "D1N414" V 9755 1382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9800 1450 50  0001 C CNN
+F 3 "~" V 9800 1450 50  0001 C CNN
+	1    9800 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5D3801D3
+P 7050 1250
+F 0 "SW6" H 7050 1535 50  0000 C CNN
+F 1 "SW_Push" H 7050 1444 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7050 1450 50  0001 C CNN
+F 3 "" H 7050 1450 50  0001 C CNN
+	1    7050 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D6
+U 1 1 5D3801DA
+P 7250 1450
+F 0 "D6" V 7296 1382 50  0000 R CNN
+F 1 "D1N414" V 7205 1382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7250 1450 50  0001 C CNN
+F 3 "~" V 7250 1450 50  0001 C CNN
+	1    7250 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5D388555
+P 6250 1250
+F 0 "SW1" H 6250 1535 50  0000 C CNN
+F 1 "SW_Push" H 6250 1444 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 6250 1450 50  0001 C CNN
+F 3 "" H 6250 1450 50  0001 C CNN
+	1    6250 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D1
+U 1 1 5D38855C
+P 6450 1450
+F 0 "D1" V 6496 1382 50  0000 R CNN
+F 1 "D1N414" V 6405 1382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 1450 50  0001 C CNN
+F 3 "~" V 6450 1450 50  0001 C CNN
+	1    6450 1450
+	0    -1   -1   0   
+$EndComp
+Text Label 1400 1650 2    50   ~ 0
+Row_1
+Text Label 1400 1750 2    50   ~ 0
+Row_2
+Text Label 1400 1850 2    50   ~ 0
+Row_3
+Text Label 1400 1950 2    50   ~ 0
+Row_4
+Text Label 1400 2050 2    50   ~ 0
+Row_5
+Text Label 5500 1250 2    50   ~ 0
+Row_1
+Text Label 5500 2150 2    50   ~ 0
+Row_2
+Text Label 5500 2950 2    50   ~ 0
+Row_3
+Text Label 5500 3800 2    50   ~ 0
+Row_4
+Text Label 5500 4600 2    50   ~ 0
+Row_5
+Wire Wire Line
+	5500 1250 6050 1250
+Wire Wire Line
+	6050 1250 6050 850 
+Wire Wire Line
+	6050 850  6850 850 
+Connection ~ 6050 1250
+Wire Wire Line
+	6850 1250 6850 850 
+Connection ~ 6850 850 
+Wire Wire Line
+	6850 850  7700 850 
+Wire Wire Line
+	7700 1250 7700 850 
+Connection ~ 7700 850 
+Wire Wire Line
+	7700 850  8550 850 
+Wire Wire Line
+	8550 1250 8550 850 
+Connection ~ 8550 850 
+Wire Wire Line
+	8550 850  9400 850 
+Wire Wire Line
+	9400 1250 9400 850 
+Connection ~ 9400 850 
+Wire Wire Line
+	9400 850  10300 850 
+Wire Wire Line
+	10300 850  10300 1250
+Wire Wire Line
+	6450 1250 6450 1350
+Wire Wire Line
+	7250 1250 7250 1350
+Wire Wire Line
+	8100 1250 8100 1350
+Wire Wire Line
+	8950 1250 8950 1350
+Wire Wire Line
+	9800 1250 9800 1350
+Wire Wire Line
+	10700 1250 10700 1350
+$Comp
+L Switch:SW_Push SW28
+U 1 1 5D3D15A7
+P 10500 2150
+F 0 "SW28" H 10500 2435 50  0000 C CNN
+F 1 "SW_Push" H 10500 2344 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 10500 2350 50  0001 C CNN
+F 3 "" H 10500 2350 50  0001 C CNN
+	1    10500 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D28
+U 1 1 5D3D15AE
+P 10700 2350
+F 0 "D28" V 10746 2282 50  0000 R CNN
+F 1 "D1N414" V 10655 2282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10700 2350 50  0001 C CNN
+F 3 "~" V 10700 2350 50  0001 C CNN
+	1    10700 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5D3D1617
+P 7900 2150
+F 0 "SW12" H 7900 2435 50  0000 C CNN
+F 1 "SW_Push" H 7900 2344 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7900 2350 50  0001 C CNN
+F 3 "" H 7900 2350 50  0001 C CNN
+	1    7900 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D12
+U 1 1 5D3D161E
+P 8100 2350
+F 0 "D12" V 8146 2282 50  0000 R CNN
+F 1 "D1N414" V 8055 2282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8100 2350 50  0001 C CNN
+F 3 "~" V 8100 2350 50  0001 C CNN
+	1    8100 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 5D3D1625
+P 8750 2150
+F 0 "SW17" H 8750 2435 50  0000 C CNN
+F 1 "SW_Push" H 8750 2344 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 8750 2350 50  0001 C CNN
+F 3 "" H 8750 2350 50  0001 C CNN
+	1    8750 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D17
+U 1 1 5D3D162C
+P 8950 2350
+F 0 "D17" V 8996 2282 50  0000 R CNN
+F 1 "D1N414" V 8905 2282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8950 2350 50  0001 C CNN
+F 3 "~" V 8950 2350 50  0001 C CNN
+	1    8950 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 5D3D1633
+P 9600 2150
+F 0 "SW22" H 9600 2435 50  0000 C CNN
+F 1 "SW_Push" H 9600 2344 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 9600 2350 50  0001 C CNN
+F 3 "" H 9600 2350 50  0001 C CNN
+	1    9600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D22
+U 1 1 5D3D163A
+P 9800 2350
+F 0 "D22" V 9846 2282 50  0000 R CNN
+F 1 "D1N414" V 9755 2282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9800 2350 50  0001 C CNN
+F 3 "~" V 9800 2350 50  0001 C CNN
+	1    9800 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5D3D1641
+P 7050 2150
+F 0 "SW7" H 7050 2435 50  0000 C CNN
+F 1 "SW_Push" H 7050 2344 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7050 2350 50  0001 C CNN
+F 3 "" H 7050 2350 50  0001 C CNN
+	1    7050 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D7
+U 1 1 5D3D1648
+P 7250 2350
+F 0 "D7" V 7296 2282 50  0000 R CNN
+F 1 "D1N414" V 7205 2282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7250 2350 50  0001 C CNN
+F 3 "~" V 7250 2350 50  0001 C CNN
+	1    7250 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5D3D164F
+P 6250 2150
+F 0 "SW2" H 6250 2435 50  0000 C CNN
+F 1 "SW_Push" H 6250 2344 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 6250 2350 50  0001 C CNN
+F 3 "" H 6250 2350 50  0001 C CNN
+	1    6250 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D2
+U 1 1 5D3D1656
+P 6450 2350
+F 0 "D2" V 6496 2282 50  0000 R CNN
+F 1 "D1N414" V 6405 2282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 2350 50  0001 C CNN
+F 3 "~" V 6450 2350 50  0001 C CNN
+	1    6450 2350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 2150 6050 2150
+Wire Wire Line
+	6050 2150 6050 1750
+Wire Wire Line
+	6050 1750 6850 1750
+Connection ~ 6050 2150
+Wire Wire Line
+	6850 2150 6850 1750
+Connection ~ 6850 1750
+Wire Wire Line
+	6850 1750 7700 1750
+Wire Wire Line
+	7700 2150 7700 1750
+Connection ~ 7700 1750
+Wire Wire Line
+	7700 1750 8550 1750
+Wire Wire Line
+	8550 2150 8550 1750
+Connection ~ 8550 1750
+Wire Wire Line
+	8550 1750 9400 1750
+Wire Wire Line
+	9400 2150 9400 1750
+Connection ~ 9400 1750
+Wire Wire Line
+	9400 1750 10300 1750
+Wire Wire Line
+	10300 1750 10300 2150
+Wire Wire Line
+	6450 2150 6450 2250
+Wire Wire Line
+	7250 2150 7250 2250
+Wire Wire Line
+	8100 2150 8100 2250
+Wire Wire Line
+	8950 2150 8950 2250
+Wire Wire Line
+	9800 2150 9800 2250
+Wire Wire Line
+	10700 2150 10700 2250
+$Comp
+L Switch:SW_Push SW29
+U 1 1 5D3D34A4
+P 10500 2950
+F 0 "SW29" H 10500 3235 50  0000 C CNN
+F 1 "SW_Push" H 10500 3144 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 10500 3150 50  0001 C CNN
+F 3 "" H 10500 3150 50  0001 C CNN
+	1    10500 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D29
+U 1 1 5D3D34AB
+P 10700 3150
+F 0 "D29" V 10746 3082 50  0000 R CNN
+F 1 "D1N414" V 10655 3082 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10700 3150 50  0001 C CNN
+F 3 "~" V 10700 3150 50  0001 C CNN
+	1    10700 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5D3D3514
+P 7900 2950
+F 0 "SW13" H 7900 3235 50  0000 C CNN
+F 1 "SW_Push" H 7900 3144 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7900 3150 50  0001 C CNN
+F 3 "" H 7900 3150 50  0001 C CNN
+	1    7900 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D13
+U 1 1 5D3D351B
+P 8100 3150
+F 0 "D13" V 8146 3082 50  0000 R CNN
+F 1 "D1N414" V 8055 3082 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8100 3150 50  0001 C CNN
+F 3 "~" V 8100 3150 50  0001 C CNN
+	1    8100 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 5D3D3522
+P 8750 2950
+F 0 "SW18" H 8750 3235 50  0000 C CNN
+F 1 "SW_Push" H 8750 3144 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 8750 3150 50  0001 C CNN
+F 3 "" H 8750 3150 50  0001 C CNN
+	1    8750 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D18
+U 1 1 5D3D3529
+P 8950 3150
+F 0 "D18" V 8996 3082 50  0000 R CNN
+F 1 "D1N414" V 8905 3082 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8950 3150 50  0001 C CNN
+F 3 "~" V 8950 3150 50  0001 C CNN
+	1    8950 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW23
+U 1 1 5D3D3530
+P 9600 2950
+F 0 "SW23" H 9600 3235 50  0000 C CNN
+F 1 "SW_Push" H 9600 3144 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 9600 3150 50  0001 C CNN
+F 3 "" H 9600 3150 50  0001 C CNN
+	1    9600 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D23
+U 1 1 5D3D3537
+P 9800 3150
+F 0 "D23" V 9846 3082 50  0000 R CNN
+F 1 "D1N414" V 9755 3082 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9800 3150 50  0001 C CNN
+F 3 "~" V 9800 3150 50  0001 C CNN
+	1    9800 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5D3D353E
+P 7050 2950
+F 0 "SW8" H 7050 3235 50  0000 C CNN
+F 1 "SW_Push" H 7050 3144 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7050 3150 50  0001 C CNN
+F 3 "" H 7050 3150 50  0001 C CNN
+	1    7050 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D8
+U 1 1 5D3D3545
+P 7250 3150
+F 0 "D8" V 7296 3082 50  0000 R CNN
+F 1 "D1N414" V 7205 3082 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7250 3150 50  0001 C CNN
+F 3 "~" V 7250 3150 50  0001 C CNN
+	1    7250 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5D3D354C
+P 6250 2950
+F 0 "SW3" H 6250 3235 50  0000 C CNN
+F 1 "SW_Push" H 6250 3144 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 6250 3150 50  0001 C CNN
+F 3 "" H 6250 3150 50  0001 C CNN
+	1    6250 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D3
+U 1 1 5D3D3553
+P 6450 3150
+F 0 "D3" V 6496 3082 50  0000 R CNN
+F 1 "D1N414" V 6405 3082 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 3150 50  0001 C CNN
+F 3 "~" V 6450 3150 50  0001 C CNN
+	1    6450 3150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 2950 6050 2950
+Wire Wire Line
+	6050 2950 6050 2550
+Wire Wire Line
+	6050 2550 6850 2550
+Connection ~ 6050 2950
+Wire Wire Line
+	6850 2950 6850 2550
+Connection ~ 6850 2550
+Wire Wire Line
+	6850 2550 7700 2550
+Wire Wire Line
+	7700 2950 7700 2550
+Connection ~ 7700 2550
+Wire Wire Line
+	7700 2550 8550 2550
+Wire Wire Line
+	8550 2950 8550 2550
+Connection ~ 8550 2550
+Wire Wire Line
+	8550 2550 9400 2550
+Wire Wire Line
+	9400 2950 9400 2550
+Connection ~ 9400 2550
+Wire Wire Line
+	9400 2550 10300 2550
+Wire Wire Line
+	10300 2550 10300 2950
+Wire Wire Line
+	6450 2950 6450 3050
+Wire Wire Line
+	7250 2950 7250 3050
+Wire Wire Line
+	8100 2950 8100 3050
+Wire Wire Line
+	8950 2950 8950 3050
+Wire Wire Line
+	9800 2950 9800 3050
+Wire Wire Line
+	10700 2950 10700 3050
+$Comp
+L Switch:SW_Push SW30
+U 1 1 5D3D84F4
+P 10500 3800
+F 0 "SW30" H 10500 4085 50  0000 C CNN
+F 1 "SW_Push" H 10500 3994 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 10500 4000 50  0001 C CNN
+F 3 "" H 10500 4000 50  0001 C CNN
+	1    10500 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D30
+U 1 1 5D3D84FB
+P 10700 4000
+F 0 "D30" V 10746 3932 50  0000 R CNN
+F 1 "D1N414" V 10655 3932 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10700 4000 50  0001 C CNN
+F 3 "~" V 10700 4000 50  0001 C CNN
+	1    10700 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5D3D8564
+P 7900 3800
+F 0 "SW14" H 7900 4085 50  0000 C CNN
+F 1 "SW_Push" H 7900 3994 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7900 4000 50  0001 C CNN
+F 3 "" H 7900 4000 50  0001 C CNN
+	1    7900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D14
+U 1 1 5D3D856B
+P 8100 4000
+F 0 "D14" V 8146 3932 50  0000 R CNN
+F 1 "D1N414" V 8055 3932 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8100 4000 50  0001 C CNN
+F 3 "~" V 8100 4000 50  0001 C CNN
+	1    8100 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5D3D8572
+P 8750 3800
+F 0 "SW19" H 8750 4085 50  0000 C CNN
+F 1 "SW_Push" H 8750 3994 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 8750 4000 50  0001 C CNN
+F 3 "" H 8750 4000 50  0001 C CNN
+	1    8750 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D19
+U 1 1 5D3D8579
+P 8950 4000
+F 0 "D19" V 8996 3932 50  0000 R CNN
+F 1 "D1N414" V 8905 3932 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8950 4000 50  0001 C CNN
+F 3 "~" V 8950 4000 50  0001 C CNN
+	1    8950 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 5D3D8580
+P 9600 3800
+F 0 "SW24" H 9600 4085 50  0000 C CNN
+F 1 "SW_Push" H 9600 3994 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 9600 4000 50  0001 C CNN
+F 3 "" H 9600 4000 50  0001 C CNN
+	1    9600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D24
+U 1 1 5D3D8587
+P 9800 4000
+F 0 "D24" V 9846 3932 50  0000 R CNN
+F 1 "D1N414" V 9755 3932 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9800 4000 50  0001 C CNN
+F 3 "~" V 9800 4000 50  0001 C CNN
+	1    9800 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5D3D858E
+P 7050 3800
+F 0 "SW9" H 7050 4085 50  0000 C CNN
+F 1 "SW_Push" H 7050 3994 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7050 4000 50  0001 C CNN
+F 3 "" H 7050 4000 50  0001 C CNN
+	1    7050 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D9
+U 1 1 5D3D8595
+P 7250 4000
+F 0 "D9" V 7296 3932 50  0000 R CNN
+F 1 "D1N414" V 7205 3932 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7250 4000 50  0001 C CNN
+F 3 "~" V 7250 4000 50  0001 C CNN
+	1    7250 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5D3D859C
+P 6250 3800
+F 0 "SW4" H 6250 4085 50  0000 C CNN
+F 1 "SW_Push" H 6250 3994 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 6250 4000 50  0001 C CNN
+F 3 "" H 6250 4000 50  0001 C CNN
+	1    6250 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D4
+U 1 1 5D3D85A3
+P 6450 4000
+F 0 "D4" V 6496 3932 50  0000 R CNN
+F 1 "D1N414" V 6405 3932 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 4000 50  0001 C CNN
+F 3 "~" V 6450 4000 50  0001 C CNN
+	1    6450 4000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 3800 6050 3800
+Wire Wire Line
+	6050 3800 6050 3400
+Wire Wire Line
+	6050 3400 6850 3400
+Connection ~ 6050 3800
+Wire Wire Line
+	6850 3800 6850 3400
+Connection ~ 6850 3400
+Wire Wire Line
+	6850 3400 7700 3400
+Wire Wire Line
+	7700 3800 7700 3400
+Connection ~ 7700 3400
+Wire Wire Line
+	7700 3400 8550 3400
+Wire Wire Line
+	8550 3800 8550 3400
+Connection ~ 8550 3400
+Wire Wire Line
+	8550 3400 9400 3400
+Wire Wire Line
+	9400 3800 9400 3400
+Connection ~ 9400 3400
+Wire Wire Line
+	9400 3400 10300 3400
+Wire Wire Line
+	10300 3400 10300 3800
+Wire Wire Line
+	6450 3800 6450 3900
+Wire Wire Line
+	7250 3800 7250 3900
+Wire Wire Line
+	8100 3800 8100 3900
+Wire Wire Line
+	8950 3800 8950 3900
+Wire Wire Line
+	9800 3800 9800 3900
+Wire Wire Line
+	10700 3800 10700 3900
+$Comp
+L Switch:SW_Push SW31
+U 1 1 5D3DF9EF
+P 10500 4600
+F 0 "SW31" H 10500 4885 50  0000 C CNN
+F 1 "SW_Push" H 10500 4794 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 10500 4800 50  0001 C CNN
+F 3 "" H 10500 4800 50  0001 C CNN
+	1    10500 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D31
+U 1 1 5D3DF9F6
+P 10700 4800
+F 0 "D31" V 10746 4732 50  0000 R CNN
+F 1 "D1N414" V 10655 4732 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10700 4800 50  0001 C CNN
+F 3 "~" V 10700 4800 50  0001 C CNN
+	1    10700 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5D3DFA5F
+P 7900 4600
+F 0 "SW15" H 7900 4885 50  0000 C CNN
+F 1 "SW_Push" H 7900 4794 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7900 4800 50  0001 C CNN
+F 3 "" H 7900 4800 50  0001 C CNN
+	1    7900 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D15
+U 1 1 5D3DFA66
+P 8100 4800
+F 0 "D15" V 8146 4732 50  0000 R CNN
+F 1 "D1N414" V 8055 4732 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8100 4800 50  0001 C CNN
+F 3 "~" V 8100 4800 50  0001 C CNN
+	1    8100 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5D3DFA6D
+P 8750 4600
+F 0 "SW20" H 8750 4885 50  0000 C CNN
+F 1 "SW_Push" H 8750 4794 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 8750 4800 50  0001 C CNN
+F 3 "" H 8750 4800 50  0001 C CNN
+	1    8750 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D20
+U 1 1 5D3DFA74
+P 8950 4800
+F 0 "D20" V 8996 4732 50  0000 R CNN
+F 1 "D1N414" V 8905 4732 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8950 4800 50  0001 C CNN
+F 3 "~" V 8950 4800 50  0001 C CNN
+	1    8950 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5D3DFA7B
+P 9600 4600
+F 0 "SW25" H 9600 4885 50  0000 C CNN
+F 1 "SW_Push" H 9600 4794 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 9600 4800 50  0001 C CNN
+F 3 "" H 9600 4800 50  0001 C CNN
+	1    9600 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D25
+U 1 1 5D3DFA82
+P 9800 4800
+F 0 "D25" V 9846 4732 50  0000 R CNN
+F 1 "D1N414" V 9755 4732 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9800 4800 50  0001 C CNN
+F 3 "~" V 9800 4800 50  0001 C CNN
+	1    9800 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5D3DFA89
+P 7050 4600
+F 0 "SW10" H 7050 4885 50  0000 C CNN
+F 1 "SW_Push" H 7050 4794 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 7050 4800 50  0001 C CNN
+F 3 "" H 7050 4800 50  0001 C CNN
+	1    7050 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D10
+U 1 1 5D3DFA90
+P 7250 4800
+F 0 "D10" V 7296 4732 50  0000 R CNN
+F 1 "D1N414" V 7205 4732 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7250 4800 50  0001 C CNN
+F 3 "~" V 7250 4800 50  0001 C CNN
+	1    7250 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5D3DFA97
+P 6250 4600
+F 0 "SW5" H 6250 4885 50  0000 C CNN
+F 1 "SW_Push" H 6250 4794 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 6250 4800 50  0001 C CNN
+F 3 "" H 6250 4800 50  0001 C CNN
+	1    6250 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D5
+U 1 1 5D3DFA9E
+P 6450 4800
+F 0 "D5" V 6496 4732 50  0000 R CNN
+F 1 "D1N414" V 6405 4732 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 4800 50  0001 C CNN
+F 3 "~" V 6450 4800 50  0001 C CNN
+	1    6450 4800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 4600 6050 4600
+Wire Wire Line
+	6050 4600 6050 4200
+Wire Wire Line
+	6050 4200 6850 4200
+Connection ~ 6050 4600
+Wire Wire Line
+	6850 4600 6850 4200
+Connection ~ 6850 4200
+Wire Wire Line
+	6850 4200 7700 4200
+Wire Wire Line
+	7700 4600 7700 4200
+Connection ~ 7700 4200
+Wire Wire Line
+	7700 4200 8550 4200
+Wire Wire Line
+	8550 4600 8550 4200
+Connection ~ 8550 4200
+Wire Wire Line
+	8550 4200 9400 4200
+Wire Wire Line
+	9400 4600 9400 4200
+Connection ~ 9400 4200
+Wire Wire Line
+	9400 4200 10300 4200
+Wire Wire Line
+	10300 4200 10300 4600
+Wire Wire Line
+	6450 4600 6450 4700
+Wire Wire Line
+	7250 4600 7250 4700
+Wire Wire Line
+	8100 4600 8100 4700
+Wire Wire Line
+	8950 4600 8950 4700
+Wire Wire Line
+	9800 4600 9800 4700
+Wire Wire Line
+	10700 4600 10700 4700
+$Comp
+L Switch:SW_Push SW26
+U 1 1 5D3F2FA7
+P 10450 5650
+F 0 "SW26" H 10450 5935 50  0000 C CNN
+F 1 "SW_Push" H 10450 5844 50  0000 C CNN
+F 2 "kailh:Kailh_low_profile" H 10450 5850 50  0001 C CNN
+F 3 "" H 10450 5850 50  0001 C CNN
+	1    10450 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small_ALT D26
+U 1 1 5D3F2FAE
+P 10650 5850
+F 0 "D26" V 10696 5782 50  0000 R CNN
+F 1 "D1N414" V 10605 5782 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10650 5850 50  0001 C CNN
+F 3 "~" V 10650 5850 50  0001 C CNN
+	1    10650 5850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 5650 6000 5650
+Wire Wire Line
+	6000 5650 6000 5250
+Wire Wire Line
+	10250 5250 10250 5650
+Wire Wire Line
+	10650 5650 10650 5750
+Text Label 5450 5650 2    50   ~ 0
+Row_6
+Wire Wire Line
+	6000 5250 10250 5250
+$Comp
+L Connector_Generic:Conn_01x06 J1
+U 1 1 5D41CBB2
+P 1600 1850
+F 0 "J1" H 1679 1842 50  0000 L CNN
+F 1 "Rows_1" H 1679 1751 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x06_P2.00mm_Vertical" H 1600 1850 50  0001 C CNN
+F 3 "~" H 1600 1850 50  0001 C CNN
+	1    1600 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J4
+U 1 1 5D41D812
+P 3500 1800
+F 0 "J4" H 3580 1792 50  0000 L CNN
+F 1 "Columns_1" H 3580 1701 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x06_P2.00mm_Vertical" H 3500 1800 50  0001 C CNN
+F 3 "~" H 3500 1800 50  0001 C CNN
+	1    3500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J2
+U 1 1 5D41DF6B
+P 1600 2700
+F 0 "J2" H 1679 2692 50  0000 L CNN
+F 1 "Rows_2" H 1679 2601 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x06_P2.00mm_Vertical" H 1600 2700 50  0001 C CNN
+F 3 "~" H 1600 2700 50  0001 C CNN
+	1    1600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J5
+U 1 1 5D41E3B3
+P 3500 2650
+F 0 "J5" H 3580 2642 50  0000 L CNN
+F 1 "Columns_2" H 3580 2551 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x06_P2.00mm_Vertical" H 3500 2650 50  0001 C CNN
+F 3 "~" H 3500 2650 50  0001 C CNN
+	1    3500 2650
+	1    0    0    -1  
+$EndComp
+Text Label 1400 2150 2    50   ~ 0
+Row_6
+Text Label 1400 2500 2    50   ~ 0
+Row_1
+Text Label 1400 2600 2    50   ~ 0
+Row_2
+Text Label 1400 2700 2    50   ~ 0
+Row_3
+Text Label 1400 2800 2    50   ~ 0
+Row_4
+Text Label 1400 2900 2    50   ~ 0
+Row_5
+Text Label 1400 3000 2    50   ~ 0
+Row_6
+Text Label 3300 1600 2    50   ~ 0
+Column_1
+Text Label 3300 1700 2    50   ~ 0
+Column_2
+Text Label 3300 1800 2    50   ~ 0
+Column_3
+Text Label 3300 1900 2    50   ~ 0
+Column_4
+Text Label 3300 2000 2    50   ~ 0
+Column_5
+Text Label 3300 2100 2    50   ~ 0
+Column_6
+Text Label 3300 2450 2    50   ~ 0
+Column_1
+Text Label 3300 2550 2    50   ~ 0
+Column_2
+Text Label 3300 2650 2    50   ~ 0
+Column_3
+Text Label 3300 2750 2    50   ~ 0
+Column_4
+Text Label 3300 2850 2    50   ~ 0
+Column_5
+Text Label 3300 2950 2    50   ~ 0
+Column_6
+Text Label 6500 5500 2    50   ~ 0
+Column_1
+Text Label 7300 5500 2    50   ~ 0
+Column_2
+Text Label 8100 5500 2    50   ~ 0
+Column_3
+Text Label 8950 5500 2    50   ~ 0
+Column_4
+Text Label 9800 5550 2    50   ~ 0
+Column_5
+Text Label 10650 6250 2    50   ~ 0
+Column_6
+Wire Wire Line
+	6450 1550 6550 1550
+Wire Wire Line
+	6550 1550 6550 2450
+Wire Wire Line
+	6550 2450 6450 2450
+Wire Wire Line
+	6550 2450 6550 3250
+Wire Wire Line
+	6550 4900 6450 4900
+Connection ~ 6550 2450
+Wire Wire Line
+	6450 4100 6550 4100
+Connection ~ 6550 4100
+Wire Wire Line
+	6550 4100 6550 4900
+Wire Wire Line
+	6450 3250 6550 3250
+Connection ~ 6550 3250
+Wire Wire Line
+	6550 3250 6550 4100
+Wire Wire Line
+	6550 4900 6550 5500
+Wire Wire Line
+	6550 5500 6500 5500
+Connection ~ 6550 4900
+Wire Wire Line
+	7300 5500 7450 5500
+Wire Wire Line
+	7450 5500 7450 4900
+Wire Wire Line
+	7450 1550 7250 1550
+Wire Wire Line
+	7250 2450 7450 2450
+Connection ~ 7450 2450
+Wire Wire Line
+	7450 2450 7450 1550
+Wire Wire Line
+	7250 3250 7450 3250
+Connection ~ 7450 3250
+Wire Wire Line
+	7450 3250 7450 2450
+Wire Wire Line
+	7250 4100 7450 4100
+Connection ~ 7450 4100
+Wire Wire Line
+	7450 4100 7450 3250
+Wire Wire Line
+	7250 4900 7450 4900
+Connection ~ 7450 4900
+Wire Wire Line
+	7450 4900 7450 4100
+Wire Wire Line
+	8100 1550 8350 1550
+Wire Wire Line
+	8350 1550 8350 2450
+Wire Wire Line
+	8350 5500 8100 5500
+Wire Wire Line
+	8100 2450 8350 2450
+Connection ~ 8350 2450
+Wire Wire Line
+	8350 2450 8350 3250
+Wire Wire Line
+	8100 3250 8350 3250
+Connection ~ 8350 3250
+Wire Wire Line
+	8350 3250 8350 4100
+Wire Wire Line
+	8100 4100 8350 4100
+Connection ~ 8350 4100
+Wire Wire Line
+	8350 4100 8350 4900
+Wire Wire Line
+	8100 4900 8350 4900
+Connection ~ 8350 4900
+Wire Wire Line
+	8350 4900 8350 5500
+Wire Wire Line
+	8950 5500 9200 5500
+Wire Wire Line
+	9200 5500 9200 4900
+Wire Wire Line
+	9200 1550 8950 1550
+Wire Wire Line
+	8950 2450 9200 2450
+Connection ~ 9200 2450
+Wire Wire Line
+	9200 2450 9200 1550
+Wire Wire Line
+	8950 3250 9200 3250
+Connection ~ 9200 3250
+Wire Wire Line
+	9200 3250 9200 2450
+Wire Wire Line
+	8950 4100 9200 4100
+Connection ~ 9200 4100
+Wire Wire Line
+	9200 4100 9200 3250
+Wire Wire Line
+	8950 4900 9200 4900
+Connection ~ 9200 4900
+Wire Wire Line
+	9200 4900 9200 4100
+Wire Wire Line
+	9800 5550 9950 5550
+Wire Wire Line
+	9950 5550 9950 4900
+Wire Wire Line
+	9950 1550 9800 1550
+Wire Wire Line
+	9800 2450 9950 2450
+Connection ~ 9950 2450
+Wire Wire Line
+	9950 2450 9950 1550
+Wire Wire Line
+	9800 3250 9950 3250
+Connection ~ 9950 3250
+Wire Wire Line
+	9950 3250 9950 2450
+Wire Wire Line
+	9800 4100 9950 4100
+Connection ~ 9950 4100
+Wire Wire Line
+	9950 4100 9950 3250
+Wire Wire Line
+	9800 4900 9950 4900
+Connection ~ 9950 4900
+Wire Wire Line
+	9950 4900 9950 4100
+Wire Wire Line
+	10650 6250 10800 6250
+Wire Wire Line
+	10800 6250 10800 5950
+Wire Wire Line
+	10800 1550 10700 1550
+Wire Wire Line
+	10700 2450 10800 2450
+Connection ~ 10800 2450
+Wire Wire Line
+	10800 2450 10800 1550
+Wire Wire Line
+	10700 3250 10800 3250
+Connection ~ 10800 3250
+Wire Wire Line
+	10800 3250 10800 2450
+Wire Wire Line
+	10700 4100 10800 4100
+Connection ~ 10800 4100
+Wire Wire Line
+	10800 4100 10800 3250
+Wire Wire Line
+	10700 4900 10800 4900
+Connection ~ 10800 4900
+Wire Wire Line
+	10800 4900 10800 4100
+Wire Wire Line
+	10650 5950 10800 5950
+Connection ~ 10800 5950
+Wire Wire Line
+	10800 5950 10800 4900
+$Comp
+L Connector_Generic:Conn_01x16 J3
+U 1 1 5D4ED98E
+P 1650 4350
+F 0 "J3" H 1730 4342 50  0000 L CNN
+F 1 "Conn_01x16" H 1730 4251 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 1650 4350 50  0001 C CNN
+F 3 "~" H 1650 4350 50  0001 C CNN
+	1    1650 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPDT SW32
+U 1 1 5D5A3066
+P 2500 6100
+F 0 "SW32" H 2500 6385 50  0000 C CNN
+F 1 "SW_SPDT" H 2500 6294 50  0000 C CNN
+F 2 "kailh:EQZ1K2-switch" H 2500 6100 50  0001 C CNN
+F 3 "" H 2500 6100 50  0001 C CNN
+	1    2500 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x03 J6
+U 1 1 5D5AB635
+P 3200 6100
+F 0 "J6" H 3280 6142 50  0000 L CNN
+F 1 "Conn_01x03" H 3280 6051 50  0000 L CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical" H 3200 6100 50  0001 C CNN
+F 3 "~" H 3200 6100 50  0001 C CNN
+	1    3200 6100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 6000 3000 6000
+Wire Wire Line
+	2700 6200 3000 6200
+Wire Wire Line
+	2300 6100 2300 6300
+Wire Wire Line
+	2300 6300 2500 6300
+Wire Wire Line
+	2500 6300 2500 6100
+Wire Wire Line
+	2500 6100 3000 6100
+$EndSCHEMATC
